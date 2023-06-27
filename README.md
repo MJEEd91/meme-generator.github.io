@@ -4,9 +4,8 @@ This is a simple Flask web application that displays a random meme fetched from 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/meme-website.git
+1. Clone the repository: git clone https://github.com/MJEEd91/meme-website.git
 2. Navigate to the project directory: cd meme-website
-3. Install the required dependencies using pip: pip install -r requirements.txt
 
 
 
