@@ -1,6 +1,6 @@
 # Meme Website
 
-This is a simple Flask web application that displays a random meme fetched from the [Meme API](https://meme-api.com/gimme) every 30 seconds. The website also shows the current subreddit where the meme was obtained from.
+This is a simple Flask web application that displays a random meme fetched from the [Meme API](https://meme-api.com/gimme) every 5 seconds. The website also shows the current subreddit where the meme was obtained from.
 ## Installation
 
 1. Clone the repository: git clone https://github.com/MJEEd91/meme-website.git
